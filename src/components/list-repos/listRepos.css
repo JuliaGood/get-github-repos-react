@@ -1,0 +1,12 @@
+.list-repos {
+  display: flex;
+  text-decoration: none;
+  list-style-type: decimal;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 500px;
+}
+.list-repos li {
+  padding: 5px 0;
+}
